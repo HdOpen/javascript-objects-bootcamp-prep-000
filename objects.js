@@ -1,1 +1,1 @@
-var meals = new 
+var meals = {};
