@@ -1,1 +1,1 @@
-var playlist= {Lorde:Royal};
+var playlist= {Lorde:'Royal'};
