@@ -1,5 +1,5 @@
 var playlist = ({ Lorde: "royal"});
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist =  ;
-  return playlist ;
+return playlist.assign ({}, playlist, {[key]: Summer})
+  
 }
