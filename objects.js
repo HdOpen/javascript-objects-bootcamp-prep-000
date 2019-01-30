@@ -1,3 +1,1 @@
-var playlist = ({ Lorde: "royal"});
-function updatePlaylist(playlist, artistName, songTitle) {
-}
+var meals = new Object();
